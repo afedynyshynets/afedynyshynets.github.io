@@ -1,0 +1,14 @@
+export const CREATE_NOTE = 'NOTE/CREATE_NOTE';
+export const UPDATE_NOTE = 'NOTE/UPDATE_NOTE';
+export const SWITCH_ADD_NOTE = 'NOTE/SWITCH_MODAL_NOTE';
+export const SWITCH_EDIT_NOTE = 'NOTE/SWITCH_EDIT_NOTE';
+export const SWITCH_ADD_DIR = 'NOTE/SWITCH_ADD_DIR';
+export const FETCH_NOTES = 'NOTE/FETCH_NOTES';
+export const FETCH_DIR = 'NOTE/FETCH_DIR';
+export const SHOW_LOADER = 'APP/SHOW_LOADER';
+export const HIDE_LOADER = 'APP/HIDE_LOADER';
+export const SHOW_ALERT = 'APP/SHOW_ALERT';
+export const HIDE_ALERT = 'APP/HIDE_ALERT';
+export const REQUEST_NOTES = 'NOTE/REQUEST_NOTES';
+export const SELECT_NOTE = 'NOTE/SELECT_NOTE';
+export const SELECT_DIR = 'NOTE/SELECT_DIR';
